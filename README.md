@@ -1,0 +1,1 @@
+# grafana-floor-panel-plugin
